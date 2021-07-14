@@ -1,5 +1,6 @@
 package main
 
+//can name return values
 func printAge(age1, age2 int) (ageOfSally, ageOfBob int) {
 	ageOfSally = age1
 	ageOfBob = age2
